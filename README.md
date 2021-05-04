@@ -9,7 +9,7 @@ Python Solutions to different Leetcode algorithmic problems
 
 3. [LC 200 Number of Islands](https://leetcode.com/problems/number-of-islands/) - [Solution](./LC200_NumberOfIslands.py)
 
-4. [LC 79 Word Search](https://leetcode.com/problems/word-search/) - [Solution](./LC238_ProductOfArrayExceptSelf.py)
+4. [LC 79 Word Search](https://leetcode.com/problems/word-search/) - [Solution](./LC79_WordSearch.py)
 
 5. [LC 287 Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) - [Solution](./LC287_FindTheDuplicateNumber.py)
 
