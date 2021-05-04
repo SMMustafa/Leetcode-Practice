@@ -20,3 +20,5 @@ Python Solutions to different Leetcode algorithmic problems
 9. [LC 46 Permutations](https://leetcode.com/problems/permutations/) - [Solution](./LC46_Permutations.py)
 
 10. [LC 62 Unique Paths](https://leetcode.com/problems/unique-paths/) - [Solution](./LC62_UniquePaths.py)
+
+11. [LC 74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - [Solution](./LC74_SearchA2DMatrix.py)
