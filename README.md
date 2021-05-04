@@ -11,7 +11,7 @@ Python Solutions to different Leetcode algorithmic problems
 
 4. [LC 79 Word Search](https://leetcode.com/problems/word-search/)
 
-5. [LC Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+5. [LC 287 Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
 6. [LC 98 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 
