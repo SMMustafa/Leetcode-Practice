@@ -21,4 +21,27 @@ Python Solutions to different Leetcode algorithmic problems
 
 10. [LC 62 Unique Paths](https://leetcode.com/problems/unique-paths/) - [Solution](./LC62_UniquePaths.py)
 
-11. [LC 74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - [Solution](./LC74_SearchA2DMatrix.py)
+11. [LC 74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - [Solution](./LC74_SearchA2DMatrix.py) 
+
+12. [LC 6 ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) - [Solution](./LC74_SearchA2DMatrix.py)
+
+13. [LC 347 Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - [Solution](./LC347_TopKFrequentElements.py)
+
+14. [LC 560 Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) - [Solution](./LC560_SubarraySumEqualsK.py)
+
+15. [LC 206 Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - [Solution](./LC206_ReverseLinkedList.py)
+
+16. [LC 692 Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) - [Solution](./LC692_TopKFrequentWords.py)
+
+17. [LC 74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - [Solution](./LC74_SearchA2DMatrix.py)
+
+18. [LC 704 Binary Search](https://leetcode.com/problems/binary-search/) - [Solution](./LC704_BinarySearch.py)
+
+19. [LC 104 Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - [Solution](./LC104_MaximumDepthOfBinaryTree.py)
+
+20. [LC 19 Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - [Solution](./LC19_RemoveNthNodeFromEndOfList.py)
+
+
+
+
+
