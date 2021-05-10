@@ -15,13 +15,15 @@ Python Solutions to different Leetcode algorithmic problems
 
 6. [LC 98 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) - [Solution](./LC98_ValidateBinarySearchTree.py)
 
-8. [LC 384 Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) - [Solution](./LC384_ShuffleAnArray.py)
+7. [LC 384 Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) - [Solution](./LC384_ShuffleAnArray.py)
 
-9. [LC 46 Permutations](https://leetcode.com/problems/permutations/) - [Solution](./LC46_Permutations.py)
+8. [LC 46 Permutations](https://leetcode.com/problems/permutations/) - [Solution](./LC46_Permutations.py)
 
-10. [LC 62 Unique Paths](https://leetcode.com/problems/unique-paths/) - [Solution](./LC62_UniquePaths.py)
+9. [LC 62 Unique Paths](https://leetcode.com/problems/unique-paths/) - [Solution](./LC62_UniquePaths.py)
 
-11. [LC 74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - [Solution](./LC74_SearchA2DMatrix.py) 
+10. [LC 74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) - [Solution](./LC74_SearchA2DMatrix.py) 
+
+11. [LC 451 Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) - [Solution](./LC451_SortCharactersByFrequency.py) 
 
 12. [LC 6 ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) - [Solution](./LC74_SearchA2DMatrix.py)
 
